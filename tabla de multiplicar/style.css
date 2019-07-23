@@ -1,0 +1,24 @@
+body{
+	background: url("http://4.bp.blogspot.com/-NRR1iVevuM8/TvxWYtb7KyI/AAAAAAAACQo/eGyQ8ENEhog/s1600/wallpaper-tumblr-wallpaper-733412.jpg")no-repeat fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size:cover;
+	-moz-background-size:cover;
+
+}
+
+h1{
+	background-color:white;
+	font-family:Broadway;
+	color:black;
+	font-size:20px;
+	text-align:center;
+
+}
+
+h4{
+	font-family:Bernard MT Condensed;
+	color:white;
+	font-size:20px;
+	text-align:center;
+}
